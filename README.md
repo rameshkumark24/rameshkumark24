@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rameshkumark24
 - 👀 I’m interested in ... Ai
 - 🌱 I’m currently learning ...cse(aiml)
-- 💞️ I’m looking to collaborate on ...ml projects
+- 💞️ I’m looking to collaborate on ...Web,App,Data Analysis,ML projects
 - 📫 How to reach me ...Linkedin
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ... infotainment
