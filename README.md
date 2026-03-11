@@ -53,8 +53,6 @@ Modern React + Tailwind portfolio with dual-theme engine
 
 ![Ramesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rameshkumark24&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rameshkumark24&layout=compact&theme=tokyonight)
-
 ---
 
 ## 📫 Connect With Me
