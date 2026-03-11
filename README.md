@@ -39,16 +39,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-🔹 Smart Civic Reporting  
-Full-stack civic issue tracking platform using Node.js & MongoDB  
-
-🔹 Portfolio Website  
-Modern React + Tailwind portfolio with dual-theme engine  
-
----
-
 ## 📊 GitHub Stats
 
 ![Ramesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rameshkumark24&show_icons=true&theme=tokyonight)
