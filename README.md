@@ -20,6 +20,7 @@
 
 ### 💻 Programming
 - Java
+- Python
 - SQL
 
 ### ⚙ Backend
