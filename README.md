@@ -1,6 +1,6 @@
 # Hi, I'm Rameshkumar Kannan 👋
 
-🚀 Java Backend Developer | Spring Boot | DSA  
+🚀  Backend Developer | Spring Boot | DSA  
 🎓 B.E CSE (AI & ML) Student  
 💡 Passionate about building scalable backend systems & solving complex problems  
 
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently focusing on **Java Backend Development**
+- 🔭 Currently focusing on ** Backend Development**
 - 🌱 Strengthening **Spring Boot, REST APIs, JPA, Hibernate**
 - 🧠 Solved **200+ DSA problems**
 - 💬 Interested in backend architecture & system design
