@@ -45,12 +45,9 @@
 * Vercel
 ---
 
-## 📊 GitHub Stats
+## 🔥 My GitHub Streak
 
-<a href="https://github.com/rameshkumark24">
-  <img src="https://github-readme-stats.vercel.app/api?username=rameshkumark24&show_icons=true&theme=tokyonight" alt="Ramesh's GitHub stats" />
-</a>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rameshkumark24&theme=tokyonight)](https://github.com/rameshkumark24)
 ---
 
 ## 📫 Connect With Me
