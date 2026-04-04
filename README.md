@@ -1,6 +1,6 @@
 # Hi, I'm Rameshkumar Kannan 👋
 
-🚀  Backend Developer | Machine Learning | Spring Boot | REST APIs | DSA  
+🚀  Backend Developer | AI & Machine Learning | Spring Boot | REST APIs | DSA  
 🎓 B.E CSE (AI & ML) Student  
 💡 Passionate about building scalable backend systems & solving complex problems  
 
