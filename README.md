@@ -47,7 +47,9 @@
 
 ## 📊 GitHub Stats
 
-![Ramesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rameshkumark24&show_icons=true&theme=tokyonight)
+<a href="https://github.com/rameshkumark24">
+  <img src="https://github-readme-stats.vercel.app/api?username=rameshkumark24&show_icons=true&theme=tokyonight" alt="Ramesh's GitHub stats" />
+</a>
 
 ---
 
