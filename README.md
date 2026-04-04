@@ -19,25 +19,30 @@
 ## 🛠 Tech Stack
 
 ### 💻 Programming
-- Java
-- Python
-- SQL
+* Java
+* Python
+* SQL
 
 ### ⚙ Backend
-- Spring Boot
-- REST APIs
-- JPA & Hibernate
+* Spring Boot
+* REST APIs
+* JPA & Hibernate
+
+### 🤖 Machine Learning & AI
+* TensorFlow
+* Scikit-Learn
+* Generative AI (Foundational)
+* LLM Integration
 
 ### 🗄 Databases
-- MySQL
-- MongoDB
+* MySQL
+* MongoDB
 
 ### 🧰 Tools
-- Git & GitHub
-- IntelliJ IDEA
-- Postman
-- Vercel
-
+* Git & GitHub
+* IntelliJ IDEA
+* Postman
+* Vercel
 ---
 
 ## 📊 GitHub Stats
