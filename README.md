@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently focusing on **Java Backend Engineering & System Architecture**
-- 🌱 Strengthening **Spring Boot, REST APIs, Microservices, and Database Design**
+- 🌱 Strengthening **Spring Boot, REST APIs, and Database Design**
 - 🧠 Consistently practicing **DSA (200+ problems solved)** to write highly optimized code
 - 💬 I build solid backend foundations first, then leverage my advanced AI/ML knowledge to integrate intelligent features (LLMs, predictive models)
 - 🎯 Actively looking for **SDE / Java Backend Developer Roles** (Internships or Full-Time)
