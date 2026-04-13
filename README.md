@@ -1,6 +1,6 @@
 # Hi, I'm Rameshkumar Kannan 👋
 
-🚀 **Software Development Engineer (SDE) | Java Backend | Spring Boot | Advanced AI/ML Integrations** 🎓 B.E CSE (AI & ML) Student @ KPR Institute of Engineering and Technology  
+🚀 **Software Development Engineer (SDE) | Java Backend | Spring Boot | AI Systems | LLM Integrations** 🎓 B.E CSE (AI & ML) Student @ KPR Institute of Engineering and Technology  
 💡 Passionate about building robust, scalable backend systems and enhancing them with advanced Machine Learning capabilities.  
 
 ---
