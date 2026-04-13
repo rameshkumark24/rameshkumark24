@@ -27,7 +27,7 @@
 
 * 🍔 **[Food Delivery Time Predictor](https://github.com/rameshkumark24/food_delivery_prediction)** - End-to-end ML pipeline and Flask backend predicting delivery times with 90%+ accuracy using Random Forest and XGBoost.
 * 📈 **[AI Stock Market Predictor](https://github.com/rameshkumark24/Stockmarketfutureprediction)** - Deep learning application using LSTM neural networks to forecast 10-day stock price trends dynamically via the Yahoo Finance API.
-* 🎬 **[TrendScript AI Shorts Generator](https://github.com/rameshkumark24/trendscript)** - Serverless web app combining real-time Google Trends data with Groq's LLaMA 3.1 to generate complete video production scripts in milliseconds.
+* 🎬 **[TrendScript AI Shorts Generator](https://github.com/rameshkumark24/trendscript)** - LLM-powered content generation system integrating real-time data sources and prompt pipelines. Designed as a modular AI workflow simulating multi-step reasoning.
 * 🎓 **[Placement Management System](https://github.com/rameshkumark24/placement_system)** - Full-stack Spring Boot application with Role-Based Access Control, JWT authentication, and MySQL database integration.
 
 ---
