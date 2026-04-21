@@ -1,6 +1,6 @@
 # Hi, I'm Rameshkumar Kannan 👋
 
-🚀 Backend-Focused Developer | Open Source Contributor
+🚀 Aspiring Software Developer | Open Source Contributor
 🎓 B.E CSE (AI & ML) @ KPR Institute of Engineering and Technology  
 
 ---
