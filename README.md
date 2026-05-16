@@ -11,7 +11,7 @@
 - 🔭 Focused on **Java Backend Development & System Design**
 - 🌱 Currently strengthening **Spring Boot, REST APIs, Authentication, and Database Design**
 - 🧠 Practicing **Data Structures & Algorithms** consistently *(200+ problems solved)*
-- ⚡ Interested in combining **robust backend engineering with AI/LLM integrations**
+- ⚡ Interested in combining robust backend engineering with AI/LLM integrations
 - 🎯 Seeking **Software Development Engineer / Java Backend Developer** opportunities
 
 ---
@@ -28,14 +28,19 @@
 
 # 🔥 Featured Projects
 
-### 🎓 Placement Management System
+## 🎓 Placement Management System
 
 Full-stack placement portal with authentication, role management, and dashboard workflows.
 
-- Built using **Spring Boot, JWT, MySQL**
-- Implemented **Role-Based Access Control (RBAC)**
-- Designed RESTful APIs with secure authentication
-- Created responsive workflow for students and admins
+### 🚀 Features
+- JWT Authentication & Authorization
+- Role-Based Access Control (RBAC)
+- Student/Admin workflow management
+- REST API architecture
+- Responsive dashboard UI
+
+### 🛠 Tech Stack
+`Spring Boot` `Java` `JWT` `MySQL`
 
 🔗 **Live Demo:**  
 https://placement-system-five.vercel.app/
@@ -45,53 +50,85 @@ https://github.com/rameshkumark24/placement_system
 
 ---
 
-### 📌 DSA Mastery Roadmap Platform
+## 📌 DSA Mastery Roadmap Platform
 
 Interactive roadmap platform helping users track DSA preparation progress efficiently.
 
-- Built full-stack workflow-based learning platform
-- Progress tracking dashboards and structured learning paths
-- Responsive UI with intuitive navigation
-- Optimized frontend data handling and user experience
+### 🚀 Features
+- Structured DSA roadmap
+- Progress tracking dashboards
+- Workflow-based learning system
+- Responsive and intuitive UI
+- Optimized frontend performance
+
+### 🛠 Tech Stack
+`React` `JavaScript` `Frontend Workflows`
 
 🔗 **Live Demo:**  
 https://dsapathvictory.vercel.app/
 
+🔗 **Repository:**  
+https://github.com/rameshkumark24/dsapath
+
 ---
 
-### 🍔 Food Delivery Time Predictor
+## 🍔 Food Delivery Time Predictor
 
-ML-powered prediction system estimating food delivery times accurately.
+Machine Learning system predicting food delivery times with high accuracy.
 
-- Built end-to-end ML pipeline using **Random Forest & XGBoost**
-- Flask backend integration
-- Achieved **90%+ prediction accuracy**
+### 🚀 Features
+- End-to-end ML pipeline
+- Real-time prediction interface
+- Flask backend deployment
+- Model training with Random Forest & XGBoost
+
+### 🛠 Tech Stack
+`Python` `Flask` `Scikit-Learn` `XGBoost`
+
+🔗 **Live Demo:**  
+https://food-delivery-time-prediction-pk4u.onrender.com/
 
 🔗 **Repository:**  
-https://github.com/rameshkumark24/food_delivery_prediction
+https://github.com/rameshkumark24/FoodDelivery_time_prediction
 
 ---
 
-### 📈 AI Stock Market Predictor
+## 📈 AI Stock Market Predictor
 
-Deep learning project predicting stock trends using LSTM networks.
+Deep learning project forecasting stock price trends dynamically.
 
-- Integrated Yahoo Finance API
-- Built sequential forecasting model using TensorFlow
-- Dynamic 10-day prediction workflow
+### 🚀 Features
+- 10-day stock prediction workflow
+- LSTM neural network forecasting
+- Yahoo Finance API integration
+- Dynamic data visualization
+
+### 🛠 Tech Stack
+`Python` `TensorFlow` `LSTM` `Streamlit`
+
+🔗 **Live Demo:**  
+https://stockmarketfutureprediction-aob6kekuk4vfywpdytbwvd.streamlit.app/
 
 🔗 **Repository:**  
 https://github.com/rameshkumark24/Stockmarketfutureprediction
 
 ---
 
-### 🎬 TrendScript AI Shorts Generator
+## 🎬 TrendScript AI Shorts Generator
 
 LLM-powered content generation workflow for automated short-form content creation.
 
+### 🚀 Features
+- AI-powered script generation
 - Prompt engineering workflows
-- Multi-step AI content generation pipelines
-- Modular AI integration architecture
+- Multi-step reasoning pipeline
+- Modular AI architecture
+
+### 🛠 Tech Stack
+`LLMs` `AI Workflows` `Node.js` `Prompt Engineering`
+
+🔗 **Live Demo:**  
+https://trendscript-mocha.vercel.app/
 
 🔗 **Repository:**  
 https://github.com/rameshkumark24/trendscript
@@ -100,19 +137,19 @@ https://github.com/rameshkumark24/trendscript
 
 # 🛠 Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 `Java` `Python` `SQL`
 
-### ⚙️ Backend Development
+## ⚙️ Backend Development
 `Spring Boot` `REST APIs` `JPA` `Hibernate` `Node.js` `Express.js`
 
-### 🤖 AI / ML
-`TensorFlow` `Scikit-Learn` `LLM API Integration` `Generative AI Fundamentals`
+## 🤖 AI / ML
+`TensorFlow` `Scikit-Learn` `LLM API Integration` `Generative AI`
 
-### 🗄 Databases
+## 🗄 Databases
 `MySQL` `MongoDB`
 
-### 🧰 Tools & Platforms
+## 🧰 Tools & Platforms
 `Git` `GitHub` `Postman` `IntelliJ IDEA` `Vercel`
 
 ---
